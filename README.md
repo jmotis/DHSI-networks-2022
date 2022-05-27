@@ -27,26 +27,28 @@ If possible, please install Gephi before this course begins.  You can find the f
   
   ## Day 1: Welcome and Introduction to Networks
 
-1. Welcome (async Slack)
-2. Graphs, Trees, and Networks
-    1. Basic Concepts, History, and Networks in Our Lives, Part 1 (async video, async Slack discussion)
-    2. Basic Concepts, History, and Networks in Our Lives, Part 2 (async video)
-    3. Creating Our First Networks (sync Zoom w/breakout groups) 11am Pacific/UVic time, 2pm Eastern, 7pm UK/GMT+1, etc.
+1. Welcome (async: Slack)
+2. Basic Concepts, History, and Networks in Our Lives (async: video, short exercise)
+3. Creating Our First Networks (sync: Zoom) 11am Pacific/UVic time, 2pm Eastern, 7pm UK/GMT+1, etc.
   
   ## Day 2: Structuring and Visualizing Networks
-1. Varieties of Networks (async video)
-2. Breakout Exercise: Airline Networks (synch Zoom) 11am Pacific/UVic time, 2pm Eastern, 7pm UK/GMT+1, etc.
-3. Structuring Data for Networks (sync Zoom, cont)
-4. Visualizing Networks (async video)
+  
+1. Varieties of Networks (async: video)
+2. Breakout Exercise: Airline Networks (sync: Zoom) 11am Pacific/UVic time, 2pm Eastern, 7pm UK/GMT+1, etc.
+3. Structuring Data for Networks (sync: Zoom)
+4. Visualizing Networks (async: video)
   
   ## Day 3: Quantitatively Analyzing Networks
-1. Networks Over Time and Space (async video)
-2. Network Metrics (async video)
-3. Breakout Exercise: the [Diary of Samuel Pepys](https://www.pepysdiary.com/diary/) (sync Zoom) 11am Pacific/UVic time, 2pm Eastern, 7pm UK/GMT+1, etc.
+  
+1. Networks Over Time and Space (async: video)
+2. Network Metrics (async: video)
+3. Breakout Exercise: the [Diary of Samuel Pepys](https://www.pepysdiary.com/diary/) (sync: Zoom) 11am Pacific/UVic time, 2pm Eastern, 7pm UK/GMT+1, etc.
   
   ## Day 4: Individual Projects
+  
 1. Additional Network Tools (async video)
 2. Students work on individual projects, with instructor support (async Slack and sync Zoom as needed)
   
   ## Day 5: Race to the Finish
+  
 1. Students work on individual projects, with instructor support (async Slack and sync Zoom as needed)
